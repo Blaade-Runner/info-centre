@@ -1,3 +1,5 @@
+https://stackoverflow.com/questions/20537223/when-should-i-use-git-stash
+
 Part 1:
 git stash # for hide you changes without commit
 git checkout some_branch # for work with other tasks and come back on your branch
