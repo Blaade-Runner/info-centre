@@ -15,6 +15,8 @@
 
 # Add local dir to Remote GIT - push an existing local repo
 
+## Go to current working dir
+
 ->  git remote add origin https://github.com/MadMaxx02/random.git
 
 ->  git push -u origin master
