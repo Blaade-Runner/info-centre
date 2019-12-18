@@ -1,6 +1,6 @@
-**Hey there, apparently people are still using this Gist from 2013! It's out of date! Consult the [Github docs](https://pages.github.com/).**
+### Hey there, apparently people are still using this Gist from 2013! It's out of date! Consult the [Github docs](https://pages.github.com/).**
 
-## Steps for Hosting a Website on GitHub
+### Steps for Hosting a Website on GitHub
 
 1. Create a GitHub account on github.com.
 2. Download either [GitHub for Mac][1] or [GitHub for Windows][2], depending on your operating system. Open the app and log in using the account you just created.
@@ -11,7 +11,7 @@
 7. Click the "Publish repo" button in the top right corner.
 8. Give it about 10 minutes, then check your-username.github.io. Your website should be there!
 
-## Using a custom domain name
+### Using a custom domain name
 
 You can just leave your website at that address (it'll give you some serious street cred in the developer world), but if you have a custom domain you would like to use, it is very simple to make GitHub redirect your page.
 
