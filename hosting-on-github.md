@@ -1,4 +1,4 @@
-### Hey there, apparently people are still using this Gist from 2013! It's out of date! Consult the [Github docs](https://pages.github.com/).**
+### Hey there, apparently people are still using this Gist from 2013! It's out of date! Consult the [Github docs](https://pages.github.com/).
 
 ### Steps for Hosting a Website on GitHub
 
