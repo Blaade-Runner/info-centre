@@ -27,7 +27,7 @@ It can take as long as 48 hours for your domain to resolve to your GitHub page. 
 [2]:	http://windows.github.com/
 
 
-### Deploy Angular
+### Deploy Angular Application
 1. npm install -g angular-cli-ghpages
 2. ng build --prod --base-href [URL]
 
