@@ -1,8 +1,8 @@
 ## NODE
 
 
-**Node on Azure** & **Google Cloud**
-
+**Node on Cloud**
+***
 **<pre>[Azure docs](https://docs.microsoft.com/en-us/azure/javascript/)  *  [Google docs](https://cloud.google.com/nodejs/)</pre>**
 
 ***
