@@ -1,4 +1,3 @@
-[more details](https://help.github.com/en/github/managing-packages-with-github-packages/about-github-packages)
 
 ### About GitHub Packages
 GitHub Packages is a software package hosting service that allows you to host your software packages privately or publicly and use packages as dependencies in your projects.
@@ -14,3 +13,8 @@ You can publish packages in a public repository (public packages) to share with 
 You can host multiple packages in one repository and see more information about each package by viewing the package's README, download statistics, version history, and more.
 
 You can integrate GitHub Packages with GitHub APIs, GitHub Actions, and webhooks to create an end-to-end DevOps workflow that includes your code, CI, and deployment solutions.
+
+[for more details](https://help.github.com/en/github/managing-packages-with-github-packages/about-github-packages)
+***
+### Configuring npm for use with GitHub Packages
+[docs](https://help.github.com/en/github/managing-packages-with-github-packages/configuring-npm-for-use-with-github-packages)
