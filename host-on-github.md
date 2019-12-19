@@ -28,7 +28,9 @@ It can take as long as 48 hours for your domain to resolve to your GitHub page. 
 
 
 ### Deploy Angular Application
+
 [Reference](https://dzone.com/articles/how-to-deploy-an-angular-application-to-github)
+
 1. npm install -g angular-cli-ghpages
 2. ng build --prod --base-href [URL]
 3. ngh -no-silent
