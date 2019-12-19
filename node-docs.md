@@ -1,8 +1,7 @@
 ## NODE
 
-### Host node on Azure
 
-**Docs for JS & Node.js Developers**
+**Node on Azure**
 
 [Azure docs](https://docs.microsoft.com/en-us/azure/javascript/)
 
