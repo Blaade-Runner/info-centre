@@ -3,10 +3,10 @@
 
 **Node on Azure** & **Google Cloud**
 
-**<pre>[Azure docs](https://docs.microsoft.com/en-us/azure/javascript/)    [Google docs](https://cloud.google.com/nodejs/)</pre>**
+**<pre>[Azure docs](https://docs.microsoft.com/en-us/azure/javascript/)  *  [Google docs](https://cloud.google.com/nodejs/)</pre>**
 
 ***
-**<pre>[DigitalOcean](https://www.digitalocean.com/)   *   [AWS](https://aws.amazon.com/)</pre>**
+**<pre>[DigitalOcean](https://www.digitalocean.com/)  *  [AWS](https://aws.amazon.com/)</pre>**
 
 ***
 **Node on heroku**
