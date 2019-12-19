@@ -14,7 +14,7 @@ You can host multiple packages in one repository and see more information about 
 
 You can integrate GitHub Packages with GitHub APIs, GitHub Actions, and webhooks to create an end-to-end DevOps workflow that includes your code, CI, and deployment solutions.
 
-[for more details](https://help.github.com/en/github/managing-packages-with-github-packages/about-github-packages)
+[visit link for more details](https://help.github.com/en/github/managing-packages-with-github-packages/about-github-packages)
 ***
 ### Configuring npm for use with GitHub Packages
-[docs](https://help.github.com/en/github/managing-packages-with-github-packages/configuring-npm-for-use-with-github-packages)
+[visit link for more details](https://help.github.com/en/github/managing-packages-with-github-packages/configuring-npm-for-use-with-github-packages)
